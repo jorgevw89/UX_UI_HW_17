@@ -6,7 +6,7 @@
 }
 
 html {
-    background-image: url(bkgr.png);
+    background-image: url(./public/bkgr.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
